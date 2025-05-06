@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Faizullah Hussain
-- 👀 I’m interested in ...Youtube
 - 🌱 I’m currently learning ...Reactjs
 - 💞️ I’m looking to collaborate on ...ReactJS
 - 📫 How to reach me ...(faizibaltistani@gmail.com)
