@@ -5,15 +5,6 @@ I design and build modern, responsive websites using WordPress and Elementor. Al
 
 ---
 
-### 🧩 What I Do
-
-- ✅ WordPress Website Design (Elementor, WPBakery, WooCommerce)  
-- 🎨 Build and sell custom Elementor templates  
-- 💻 Practice frontend development with code — no page builders  
-- 🧾 Run my upcoming service platform: **WPGuider**
-
----
-
 ### 💡 Frontend Development Skills
 
 - 🔹 HTML & CSS (layouts, animations, responsive design)  
