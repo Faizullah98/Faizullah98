@@ -24,8 +24,8 @@ I'm passionate about building modern, responsive websites. Currently, I'm leveli
 
 ### 🔗 My Projects
 
-- 🌐 [Lonex General Contractors – home renovation and house-building services webstie](https://lonexgeneralcontractors.ca/)
-- 🌐 [WPGuider – WordPress Services Website](https://wpguider.com)
+- 🌐 [Lonex General Contractors – home renovation and house-building services website](https://lonexgeneralcontractors.ca/)
+- 🌐 [WPGuider – WordPress Services Website](https://wpguider.info)
 - 📁 [Portfolio Website](https://faizullah98.github.io/portfolio/)
 
 ---
