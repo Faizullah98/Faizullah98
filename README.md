@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Faizullah Hussain (@Faizullah98)
 
 🎯 **WordPress Designer & Frontend Developer**  
-I design and build modern, responsive websites using WordPress and the Elementor page builder. Alongside my client work, I'm learning frontend development with **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **SCSS** to create custom-coded websites.
-
+I design and build modern, responsive websites using WordPress and the Elementor page builder. Alongside my client work, I also work on frontend development with HTML, CSS, JavaScript, Bootstrap, and SCSS to create custom-coded websites.
 ---
 
 ### 💡 Frontend Development Skills
